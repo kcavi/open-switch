@@ -1,5 +1,6 @@
 # open-switch
-the mini switch/router software
+the mini switch/router software  
+简易的交换机操作系统，包括基本的接口和命令行  
 
 ## Install
 ```sh
